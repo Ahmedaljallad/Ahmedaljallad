@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1550" viewBox="0 0 1100 1550" role="img" aria-label="Ahmed Abdelkhaleq portfolio overview: about, skills, selected projects and contact">
+<rect width="1100" height="1550" fill="#090C0A"/>
+<g stroke="#273127" fill="none" stroke-width="1"><path d="M40 0V1550 M1060 0V1550 M0 550H1100 M0 1168H1100" opacity=".5"/><path d="M970 0L1100 130 M0 1430L120 1550" opacity=".6"/></g>
+<path d="M0 0H1100" stroke="#C6FF00" stroke-width="5"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="70" y="94" fill="#C6FF00" font-size="19" letter-spacing="5">INTRODUCTION / 001</text>
+<text x="68" y="167" fill="#FFFFFF" font-weight="700" font-size="48">Building what matters.</text>
+<text x="70" y="209" fill="#C6FF00" font-size="26" font-weight="600">Code with purpose. Design with clarity.</text>
+<text x="70" y="272" fill="#CDD6CF" font-size="23">I'm Ahmed Abdelkhaleq — a Computer Science student at</text>
+<text x="70" y="308" fill="#CDD6CF" font-size="23">Zagazig University (Class of 2027), software developer and</text>
+<text x="70" y="344" fill="#CDD6CF" font-size="23">visual designer. I build practical systems and thoughtful</text>
+<text x="70" y="380" fill="#CDD6CF" font-size="23">digital experiences, from backend logic to interfaces.</text>
+<rect x="70" y="429" width="960" height="1" fill="#344035"/>
+<text x="70" y="475" fill="#C6FF00" font-size="19" letter-spacing="4">DEVELOPMENT</text><text x="380" y="475" fill="#FFFFFF" font-size="19">/</text><text x="435" y="475" fill="#C6FF00" font-size="19" letter-spacing="4">DESIGN</text><text x="670" y="475" fill="#FFFFFF" font-size="19">/</text><text x="725" y="475" fill="#C6FF00" font-size="19" letter-spacing="4">PROBLEM SOLVING</text>
+<text x="70" y="613" fill="#C6FF00" font-size="19" letter-spacing="5">CAPABILITIES / 002</text>
+<text x="70" y="665" fill="#FFFFFF" font-size="38" font-weight="700">Tools &amp; disciplines</text>
+<rect x="70" y="707" width="465" height="220" rx="10" fill="#111712" stroke="#394B32"/>
+<rect x="565" y="707" width="465" height="220" rx="10" fill="#111712" stroke="#394B32"/>
+<rect x="91" y="738" width="6" height="27" fill="#C6FF00"/><rect x="586" y="738" width="6" height="27" fill="#C6FF00"/>
+<text x="113" y="760" fill="#FFFFFF" font-size="24" font-weight="700">DEVELOPMENT</text>
+<text x="608" y="760" fill="#FFFFFF" font-size="24" font-weight="700">DESIGN &amp; EXPERIENCE</text>
+<text x="102" y="810" fill="#D1DBD0" font-size="20">Python   /   C++   /   JavaScript   /   SQL</text>
+<text x="102" y="849" fill="#D1DBD0" font-size="20">React   /   FastAPI   /   REST APIs</text>
+<text x="102" y="888" fill="#D1DBD0" font-size="20">Git   /   GitHub   /   HTML   /   CSS</text>
+<text x="597" y="810" fill="#D1DBD0" font-size="20">Visual Identity   /   UI &amp; UX</text>
+<text x="597" y="849" fill="#D1DBD0" font-size="20">Design Systems   /   Prototyping</text>
+<text x="597" y="888" fill="#D1DBD0" font-size="20">Figma   /   Photoshop   /   Illustrator</text>
+<text x="70" y="1010" fill="#C6FF00" font-size="19" letter-spacing="5">SELECTED WORK / 003</text>
+<text x="70" y="1062" fill="#FFFFFF" font-size="38" font-weight="700">Projects in focus</text>
+<rect x="70" y="1091" width="960" height="115" rx="8" fill="#111712" stroke="#3E5133"/>
+<text x="95" y="1132" fill="#FFFFFF" font-size="26" font-weight="700">eXAVERO</text><text x="972" y="1130" fill="#C6FF00" font-size="17" text-anchor="end">IN DEVELOPMENT</text>
+<text x="95" y="1174" fill="#C9D3C8" font-size="20">Written examinations, paper tracking and AI-assisted assessment.</text>
+<rect x="70" y="1224" width="960" height="115" rx="8" fill="#111712" stroke="#3E5133"/>
+<text x="95" y="1265" fill="#FFFFFF" font-size="26" font-weight="700">Printing Management System</text>
+<text x="95" y="1306" fill="#C9D3C8" font-size="20">Print job orchestration, queue controls and device monitoring.</text>
+<text x="70" y="1411" fill="#C6FF00" font-size="19" letter-spacing="5">NEXT / 004</text>
+<text x="70" y="1453" fill="#FFFFFF" font-size="27" font-weight="700">Let's build something useful.</text>
+<text x="70" y="1490" fill="#ADB7AC" font-size="20">Portfolio  /  portfolio.ajcore.net/ar</text>
+<rect x="1000" y="1457" width="29" height="29" fill="#C6FF00"/><path d="M1007 1478L1021 1464M1010 1464H1021V1475" stroke="#090C0A" stroke-width="3" fill="none"/>
+</g></svg>
