@@ -3,9 +3,10 @@
   <img src="./assets/profile-overview.svg" width="100%" alt="About Ahmed Abdelkhaleq, skills, featured work and contact" />
 </div>
 
-<!-- Accessible, clickable destinations below the visual profile -->
 <div align="center">
-  <a href="https://portfolio.ajcore.net/ar"><strong>Portfolio ↗</strong></a>
+  <a href="https://github.com/Ahmedaljallad/Ahmedaljallad/blob/main/showcase/exavero/README.md"><strong>eXAVERO Case Study ↗</strong></a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/Ahmedaljallad?tab=repositories"><strong>Repositories ↗</strong></a>
+  <a href="https://github.com/Ahmedaljallad/Ahmedaljallad/blob/main/showcase/README.md"><strong>Selected Projects ↗</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://portfolio.ajcore.net/ar"><strong>Portfolio ↗</strong></a>
 </div>
