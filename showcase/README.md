@@ -1,11 +1,13 @@
-# Selected software projects
+# Selected Software Projects
 
-Public-facing descriptions of selected work. These are **case studies**, not mirrors of private repositories. Source availability and implementation status are noted per project.
+Concise public case studies built from verified, non-sensitive descriptions. **The implementation repositories remain private.** These pages do not claim that roadmapped features are complete.
 
-| Project | Focus | Status |
+| Project | Engineering focus | Status |
 |---|---|---|
-| [eXAVERO](./exavero/README.md) | Written exam management, paper identity and AI-assisted assessment roadmap | In development · Private source |
+| [eXAVERO](./exavero/README.md) | Written examinations, identity tracking, human-supervised assessment roadmap | Graduation project · In development |
+| [Smart-Select](./smart-select/README.md) | Laravel API, React dashboard, PostgreSQL | Private code · Technical overview |
+| [Personal Portfolio](./personal-portfolio/README.md) | Next.js, React, TypeScript, Tailwind CSS | Private code · Preview |
 
-More case studies will be added after reviewing their technical scope, publishing rights and potentially sensitive content.
+**Next for review:** Hesabat, Elmaazon Physics, Harmony Hub, Finance and Physics Simulation. These have not yet been approved for public documentation or source publication.
 
 [← GitHub profile](../README.md)
